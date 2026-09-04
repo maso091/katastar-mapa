@@ -1,0 +1,7 @@
+{
+  "name": "katastar-mapa",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "build": "node fetch-parcels.js" },
+  "dependencies": { "adm-zip": "^0.5.16", "proj4": "^2.15.0" }
+}
