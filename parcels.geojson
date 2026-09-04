@@ -7,7 +7,10 @@
     "ko": "KLANAC",
     "cestica": "1396/4",
     "match": "exact",
-    "color": "#e74c3c"
+    "color": "#e74c3c",
+    "posjednici": "JOSIP DUIĆ",
+    "zk": "ZK ul. 2899: DUIĆ MATIJA ROĐ. POPOVIĆ (1/10); DUIĆ MARIJA KĆI STJEPANA (1/10); DUIĆ MILE SIN STJEPANA (1/10); DUIĆ JURE SIN STJEPANA (1/10); DUIĆ KATA KĆI STJEPANA (1/10); DUIĆ ANA KĆI STJEPANA (1/10); DUIĆ IKA KĆI STJEPANA (1/10); DUIĆ JOSO SIN STJEPANA (1/10); DUIĆ ROŽA KĆI STJEPANA (1/10); DUIĆ JOSIP (1/10)",
+    "povrsina": "1413 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -47,7 +50,10 @@
     "ko": "KLANAC",
     "cestica": "1374/1",
     "match": "exact",
-    "color": "#e74c3c"
+    "color": "#e74c3c",
+    "posjednici": "JOSIP DUIĆ",
+    "zk": "ZK ul. 2899: DUIĆ MATIJA ROĐ. POPOVIĆ (1/10); DUIĆ MARIJA KĆI STJEPANA (1/10); DUIĆ MILE SIN STJEPANA (1/10); DUIĆ JURE SIN STJEPANA (1/10); DUIĆ KATA KĆI STJEPANA (1/10); DUIĆ ANA KĆI STJEPANA (1/10); DUIĆ IKA KĆI STJEPANA (1/10); DUIĆ JOSO SIN STJEPANA (1/10); DUIĆ ROŽA KĆI STJEPANA (1/10); DUIĆ JOSIP (1/10)",
+    "povrsina": "216 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -107,7 +113,10 @@
     "ko": "KLANAC",
     "cestica": "1375/1",
     "match": "exact",
-    "color": "#e74c3c"
+    "color": "#e74c3c",
+    "posjednici": "IKA DUIĆ, MILE DUIĆ, ANA DUIĆ, JOSO DUIĆ, JURE DUIĆ, MILAN DUIĆ, JOSIP DUIĆ, KATA DUIĆ, MATIJA DUIĆ, MARIJAN DUIĆ, ROŽA DUIĆ, ŽELJKO GOBAC, MARIJA DUIĆ, ANKICA ORGULAN",
+    "zk": "ZK ul. 3022: DUIĆ MATIJA R. POPOVIĆ (18/210); DUIĆ MARIJA KĆI STJEPANA (18/210); DUIĆ MILE SIN STJEPANA (18/210); DUIĆ JURE SIN STJEPANA (18/210); DUIĆ KATA KĆI STJEPANA UDATA ROŽIĆ (18/210); DUIĆ ANA KĆI STJEPANA (18/210); DUIĆ IKA KĆI STJEPANA (18/210); DUIĆ JOSO MLDB. SIN STJEPANA (18/210); DUIĆ ROŽA KĆI STJEPANA (18/210); DUIĆ JOSIP (18/210); ORGULAN ANKICA (10/210); DUIĆ MILAN (5/210); DUIĆ MARIJAN (5/210); GOBAC ŽELJKO (10/210)",
+    "povrsina": "1273 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -155,7 +164,10 @@
     "ko": "KLANAC",
     "cestica": "1379/2",
     "match": "exact",
-    "color": "#e74c3c"
+    "color": "#e74c3c",
+    "posjednici": "JOSIP DUIĆ",
+    "zk": "ZK ul. 2899: DUIĆ MATIJA ROĐ. POPOVIĆ (1/10); DUIĆ MARIJA KĆI STJEPANA (1/10); DUIĆ MILE SIN STJEPANA (1/10); DUIĆ JURE SIN STJEPANA (1/10); DUIĆ KATA KĆI STJEPANA (1/10); DUIĆ ANA KĆI STJEPANA (1/10); DUIĆ IKA KĆI STJEPANA (1/10); DUIĆ JOSO SIN STJEPANA (1/10); DUIĆ ROŽA KĆI STJEPANA (1/10); DUIĆ JOSIP (1/10)",
+    "povrsina": "320 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -191,7 +203,10 @@
     "ko": "KLANAC",
     "cestica": "1376/1A",
     "match": "exact",
-    "color": "#e74c3c"
+    "color": "#e74c3c",
+    "posjednici": "JOSIP DUIĆ",
+    "zk": "ZK ul. 2899: DUIĆ MATIJA ROĐ. POPOVIĆ (1/10); DUIĆ MARIJA KĆI STJEPANA (1/10); DUIĆ MILE SIN STJEPANA (1/10); DUIĆ JURE SIN STJEPANA (1/10); DUIĆ KATA KĆI STJEPANA (1/10); DUIĆ ANA KĆI STJEPANA (1/10); DUIĆ IKA KĆI STJEPANA (1/10); DUIĆ JOSO SIN STJEPANA (1/10); DUIĆ ROŽA KĆI STJEPANA (1/10); DUIĆ JOSIP (1/10)",
+    "povrsina": "1129 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -231,7 +246,10 @@
     "ko": "KLANAC",
     "cestica": "1391/1A",
     "match": "exact",
-    "color": "#e74c3c"
+    "color": "#e74c3c",
+    "posjednici": "JOSIP DUIĆ",
+    "zk": "ZK ul. 2899: DUIĆ MATIJA ROĐ. POPOVIĆ (1/10); DUIĆ MARIJA KĆI STJEPANA (1/10); DUIĆ MILE SIN STJEPANA (1/10); DUIĆ JURE SIN STJEPANA (1/10); DUIĆ KATA KĆI STJEPANA (1/10); DUIĆ ANA KĆI STJEPANA (1/10); DUIĆ IKA KĆI STJEPANA (1/10); DUIĆ JOSO SIN STJEPANA (1/10); DUIĆ ROŽA KĆI STJEPANA (1/10); DUIĆ JOSIP (1/10)",
+    "povrsina": "745 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -271,7 +289,10 @@
     "ko": "KLANAC",
     "cestica": "1394/1",
     "match": "exact",
-    "color": "#e74c3c"
+    "color": "#e74c3c",
+    "posjednici": "Petar Milinković, Milan Milinković, Domagoj Delišimunović, Rosemary Kovač, Jasmine Yasenka Rendulich, DAMIR MILINKOVIĆ, Dalibor Delišimunović, Branka Rendulich, Damir Milinković",
+    "zk": "ZK ul. 2988: Milinković Damir (55/270); Delišimunović Domagoj (10/270); MILINKOVIĆ DAMIR (28/270); Milinković Petar (55/270); Delišimunović Dalibor (10/270); Milinković Milan (28/270); Kovač Rosemary (28/270); Rendulich Jasmine Yasenka (28/270); Rendulich Branka (28/270)",
+    "povrsina": "1985 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -319,7 +340,10 @@
     "ko": "KLANAC",
     "cestica": "1395/1B",
     "match": "exact",
-    "color": "#e74c3c"
+    "color": "#e74c3c",
+    "posjednici": "JOSIP DUIĆ",
+    "zk": "ZK ul. 2899: DUIĆ MATIJA ROĐ. POPOVIĆ (1/10); DUIĆ MARIJA KĆI STJEPANA (1/10); DUIĆ MILE SIN STJEPANA (1/10); DUIĆ JURE SIN STJEPANA (1/10); DUIĆ KATA KĆI STJEPANA (1/10); DUIĆ ANA KĆI STJEPANA (1/10); DUIĆ IKA KĆI STJEPANA (1/10); DUIĆ JOSO SIN STJEPANA (1/10); DUIĆ ROŽA KĆI STJEPANA (1/10); DUIĆ JOSIP (1/10)",
+    "povrsina": "1939 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -383,7 +407,10 @@
     "ko": "KLANAC",
     "cestica": "1395/3B",
     "match": "exact",
-    "color": "#e74c3c"
+    "color": "#e74c3c",
+    "posjednici": "JOSIP DUIĆ",
+    "zk": "ZK ul. 2899: DUIĆ MATIJA ROĐ. POPOVIĆ (1/10); DUIĆ MARIJA KĆI STJEPANA (1/10); DUIĆ MILE SIN STJEPANA (1/10); DUIĆ JURE SIN STJEPANA (1/10); DUIĆ KATA KĆI STJEPANA (1/10); DUIĆ ANA KĆI STJEPANA (1/10); DUIĆ IKA KĆI STJEPANA (1/10); DUIĆ JOSO SIN STJEPANA (1/10); DUIĆ ROŽA KĆI STJEPANA (1/10); DUIĆ JOSIP (1/10)",
+    "povrsina": "593 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -419,7 +446,10 @@
     "ko": "KLANAC",
     "cestica": "1396/3",
     "match": "exact",
-    "color": "#e74c3c"
+    "color": "#e74c3c",
+    "posjednici": "JOSIP DUIĆ",
+    "zk": "ZK ul. 2899: DUIĆ MATIJA ROĐ. POPOVIĆ (1/10); DUIĆ MARIJA KĆI STJEPANA (1/10); DUIĆ MILE SIN STJEPANA (1/10); DUIĆ JURE SIN STJEPANA (1/10); DUIĆ KATA KĆI STJEPANA (1/10); DUIĆ ANA KĆI STJEPANA (1/10); DUIĆ IKA KĆI STJEPANA (1/10); DUIĆ JOSO SIN STJEPANA (1/10); DUIĆ ROŽA KĆI STJEPANA (1/10); DUIĆ JOSIP (1/10)",
+    "povrsina": "2967 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -487,7 +517,10 @@
     "ko": "KLANAC",
     "cestica": "1396/5",
     "match": "exact",
-    "color": "#e74c3c"
+    "color": "#e74c3c",
+    "posjednici": "JOSIP DUIĆ",
+    "zk": "ZK ul. 2899: DUIĆ MATIJA ROĐ. POPOVIĆ (1/10); DUIĆ MARIJA KĆI STJEPANA (1/10); DUIĆ MILE SIN STJEPANA (1/10); DUIĆ JURE SIN STJEPANA (1/10); DUIĆ KATA KĆI STJEPANA (1/10); DUIĆ ANA KĆI STJEPANA (1/10); DUIĆ IKA KĆI STJEPANA (1/10); DUIĆ JOSO SIN STJEPANA (1/10); DUIĆ ROŽA KĆI STJEPANA (1/10); DUIĆ JOSIP (1/10)",
+    "povrsina": "219 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -523,7 +556,10 @@
     "ko": "KLANAC",
     "cestica": "1396/6",
     "match": "exact",
-    "color": "#e74c3c"
+    "color": "#e74c3c",
+    "posjednici": "JOSIP DUIĆ",
+    "zk": "ZK ul. 2899: DUIĆ MATIJA ROĐ. POPOVIĆ (1/10); DUIĆ MARIJA KĆI STJEPANA (1/10); DUIĆ MILE SIN STJEPANA (1/10); DUIĆ JURE SIN STJEPANA (1/10); DUIĆ KATA KĆI STJEPANA (1/10); DUIĆ ANA KĆI STJEPANA (1/10); DUIĆ IKA KĆI STJEPANA (1/10); DUIĆ JOSO SIN STJEPANA (1/10); DUIĆ ROŽA KĆI STJEPANA (1/10); DUIĆ JOSIP (1/10)",
+    "povrsina": "939 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -583,7 +619,10 @@
     "ko": "KLANAC",
     "cestica": "1559/4",
     "match": "exact",
-    "color": "#e74c3c"
+    "color": "#e74c3c",
+    "posjednici": "JOSIP DUIĆ (1/1)",
+    "zk": "",
+    "povrsina": "5176 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -635,7 +674,9 @@
     "ko": "KRUŠČICA",
     "cestica": "172/1B",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7) | ZK ul. 140: Balenović Martin (1/1)"
    },
    "geometry": {
     "type": "Polygon",
@@ -679,7 +720,9 @@
     "ko": "KRUŠČICA",
     "cestica": "193/3",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -731,7 +774,9 @@
     "ko": "KRUŠČICA",
     "cestica": "194/3",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -779,7 +824,9 @@
     "ko": "KRUŠČICA",
     "cestica": "172/1C1",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -851,7 +898,9 @@
     "ko": "KRUŠČICA",
     "cestica": "109/1",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -911,7 +960,9 @@
     "ko": "KRUŠČICA",
     "cestica": "110",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -987,7 +1038,9 @@
     "ko": "KRUŠČICA",
     "cestica": "113",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -1047,7 +1100,9 @@
     "ko": "KRUŠČICA",
     "cestica": "148/2",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -1091,7 +1146,10 @@
     "ko": "KRUŠČICA",
     "cestica": "145/2",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "JOSIP DUIĆ (1/1)",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)",
+    "povrsina": "6265 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -1179,7 +1237,9 @@
     "ko": "KRUŠČICA",
     "cestica": "148/1",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -1259,7 +1319,9 @@
     "ko": "KRUŠČICA",
     "cestica": "58",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -1339,7 +1401,9 @@
     "ko": "KRUŠČICA",
     "cestica": "60",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -1403,7 +1467,9 @@
     "ko": "KRUŠČICA",
     "cestica": "151/1",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -1451,7 +1517,9 @@
     "ko": "KRUŠČICA",
     "cestica": "154/1",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -1491,7 +1559,10 @@
     "ko": "KRUŠČICA",
     "cestica": "154/2",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "Martin Balenović (1/1)",
+    "zk": "ZK ul. 140: Balenović Martin (1/1)",
+    "povrsina": "644 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -1527,7 +1598,9 @@
     "ko": "KRUŠČICA",
     "cestica": "154/3",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "",
+    "zk": ""
    },
    "geometry": {
     "type": "Polygon",
@@ -1571,7 +1644,10 @@
     "ko": "KRUŠČICA",
     "cestica": "37/3",
     "match": "exact",
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "posjednici": "JOSIP DUIĆ (1/1)",
+    "zk": "ZK ul. 70: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)",
+    "povrsina": "3302 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -1615,7 +1691,9 @@
     "ko": "GORNJE PAZARIŠTE",
     "cestica": "82/3",
     "match": "exact",
-    "color": "#27ae60"
+    "color": "#27ae60",
+    "posjednici": "",
+    "zk": "ZK ul. 255: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -1675,7 +1753,9 @@
     "ko": "GORNJE PAZARIŠTE",
     "cestica": "50",
     "match": "exact",
-    "color": "#27ae60"
+    "color": "#27ae60",
+    "posjednici": "",
+    "zk": "ZK ul. 255: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)"
    },
    "geometry": {
     "type": "Polygon",
@@ -1723,7 +1803,10 @@
     "ko": "GORNJE PAZARIŠTE",
     "cestica": "52",
     "match": "exact",
-    "color": "#27ae60"
+    "color": "#27ae60",
+    "posjednici": "JOSIP DUIĆ (1/1)",
+    "zk": "ZK ul. 255: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)",
+    "povrsina": "252 m²"
    },
    "geometry": {
     "type": "Polygon",
@@ -1779,7 +1862,10 @@
     "ko": "GORNJE PAZARIŠTE",
     "cestica": "45",
     "match": "exact",
-    "color": "#27ae60"
+    "color": "#27ae60",
+    "posjednici": "JOSIP DUIĆ (1/1)",
+    "zk": "ZK ul. 255: Duić Stjepan (1/7); Duić Matija (1/7); Duić Marija (1/7); Duić Ivka (1/7); Duić Josip (1/7); Duić Mile (1/7); Duić Jure (1/7)",
+    "povrsina": "1705 m²"
    },
    "geometry": {
     "type": "Polygon",

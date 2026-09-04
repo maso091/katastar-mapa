@@ -186,6 +186,28 @@ async function processKo(ko) {
 }
 
 function buildMap(features) {
+  // vlasnici.json (ako postoji) -> obogati properties
+  let own = null;
+  try { own = JSON.parse(fs.readFileSync(path.join(OUT_DIR, "vlasnici.json"), "utf8")); } catch (e) {}
+  if (own) {
+    const byKey = {};
+    for (const p of own.parcels || []) byKey[p.ko + "|" + p.broj.toUpperCase()] = p;
+    for (const f of features) {
+      const rec = byKey[f.properties.ko + "|" + f.properties.cestica.toUpperCase()];
+      if (!rec) continue;
+      f.properties.posjednici = (rec.possessors || []).map((x) => x.name + (x.share ? " (" + x.share + ")" : "")).join(", ");
+      f.properties.zk = (rec.lrRefs || []).map((k) => {
+        const u = (own.lrUnits || {})[k];
+        if (!u) return "";
+        const owners = (u.owners || []).map((sh) => {
+          const frac = (sh.share.match(/[0-9]+\/[0-9]+/) || [""])[0];
+          return sh.owners.map((o) => o.name).join(", ") + (frac ? " (" + frac + ")" : "");
+        }).join("; ");
+        return "ZK ul. " + u.lrUnitNumber + ": " + owners;
+      }).filter(Boolean).join(" | ");
+      if (rec.area) f.properties.povrsina = rec.area + " m²";
+    }
+  }
   const geojson = { type: "FeatureCollection", features };
   fs.writeFileSync(path.join(OUT_DIR, "parcels.geojson"), JSON.stringify(geojson, null, 1));
 
@@ -219,9 +241,17 @@ const dkp = L.tileLayer.wms('https://api.uredjenazemlja.hr/services/inspire/cp_w
 
 const layer = L.geoJSON(data, {
   style: f => ({color:f.properties.color, weight:2, fillOpacity:.35}),
-  onEachFeature: (f,l) => l.bindPopup(
-    '<b>K.O. '+f.properties.ko+'</b><br>čest.kat.br. <b>'+f.properties.cestica+'</b><br><small>'+f.properties.match+'</small>'
-  ).bindTooltip(f.properties.cestica, {permanent:true, direction:'center', className:'plabel'})
+  onEachFeature: (f,l) => {
+    const p = f.properties;
+    let html = '<div style="max-height:260px;max-width:290px;overflow:auto;font:13px/1.45 sans-serif">'
+      + '<b>K.O. '+p.ko+'</b> — čest. <b>'+p.cestica+'</b>'
+      + (p.povrsina ? ' · '+p.povrsina : '') + '<br>';
+    if (p.posjednici) html += '<hr style="margin:6px 0"><b>Posjednici (katastar):</b><br>'+p.posjednici+'<br>';
+    if (p.zk) html += '<hr style="margin:6px 0"><b>Zemljišna knjiga:</b><br>'+p.zk;
+    if (!p.posjednici && !p.zk) html += '<i>Nema digitalno povezanih podataka — provjeri ručno na oss.uredjenazemlja.hr</i>';
+    html += '</div>';
+    l.bindPopup(html).bindTooltip(p.cestica, {permanent:true, direction:'center', className:'plabel'});
+  }
 }).addTo(map);
 
 if (data.features.length) map.fitBounds(layer.getBounds().pad(0.15));
