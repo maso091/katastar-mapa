@@ -349,7 +349,9 @@
    "area": null,
    "address": "PODRINOVAČA",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231733/70"
+   ]
   },
   {
    "ko": "KRUŠČICA",
@@ -358,7 +360,9 @@
    "area": null,
    "address": "RUKAVINKA",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231733/70"
+   ]
   },
   {
    "ko": "KRUŠČICA",
@@ -367,7 +371,9 @@
    "area": null,
    "address": "BARICA",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231733/70"
+   ]
   },
   {
    "ko": "KRUŠČICA",
@@ -376,7 +382,9 @@
    "area": null,
    "address": "RUKAVINKA",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231733/70"
+   ]
   },
   {
    "ko": "KRUŠČICA",
@@ -385,7 +393,9 @@
    "area": null,
    "address": "RUKAVINKA",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231733/70"
+   ]
   },
   {
    "ko": "KRUŠČICA",
@@ -411,7 +421,9 @@
    "area": null,
    "address": "OGRADE",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231733/70"
+   ]
   },
   {
    "ko": "KRUŠČICA",
@@ -420,7 +432,9 @@
    "area": null,
    "address": "DOLAC",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231733/70"
+   ]
   },
   {
    "ko": "KRUŠČICA",
@@ -429,7 +443,9 @@
    "area": null,
    "address": "DILI",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231733/70"
+   ]
   },
   {
    "ko": "KRUŠČICA",
@@ -438,7 +454,9 @@
    "area": null,
    "address": "KRPANKA",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231733/70"
+   ]
   },
   {
    "ko": "KRUŠČICA",
@@ -473,7 +491,10 @@
    "area": null,
    "address": "GLAVAŠICA",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231733/70",
+    "231733/140"
+   ]
   },
   {
    "ko": "KRUŠČICA",
@@ -482,7 +503,9 @@
    "area": null,
    "address": "VRTLIĆ",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231733/70"
+   ]
   },
   {
    "ko": "KRUŠČICA",
@@ -491,7 +514,9 @@
    "area": null,
    "address": "GLAVIČICA",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231733/70"
+   ]
   },
   {
    "ko": "KRUŠČICA",
@@ -500,7 +525,9 @@
    "area": null,
    "address": "DOLAC",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231733/70"
+   ]
   },
   {
    "ko": "GORNJE PAZARIŠTE",
@@ -526,7 +553,9 @@
    "area": null,
    "address": "POD POLICAMA",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231729/255"
+   ]
   },
   {
    "ko": "GORNJE PAZARIŠTE",
@@ -552,7 +581,9 @@
    "area": null,
    "address": "MIKEROVAC",
    "possessors": [],
-   "lrRefs": []
+   "lrRefs": [
+    "231729/255"
+   ]
   }
  ],
  "lrUnits": {
@@ -894,7 +925,20 @@
    "lrUnitNumber": "70",
    "parcels": [
     "KRUŠČICA 37/3",
-    "KRUŠČICA 145/2"
+    "KRUŠČICA 145/2",
+    "KRUŠČICA 58",
+    "KRUŠČICA 60",
+    "KRUŠČICA 109/1",
+    "KRUŠČICA 110",
+    "KRUŠČICA 113",
+    "KRUŠČICA 148/1",
+    "KRUŠČICA 148/2",
+    "KRUŠČICA 151/1",
+    "KRUŠČICA 154/1",
+    "KRUŠČICA 172/1B",
+    "KRUŠČICA 172/1C1",
+    "KRUŠČICA 193/3",
+    "KRUŠČICA 194/3"
    ],
    "owners": [
     {
@@ -966,7 +1010,8 @@
    "mainBookId": "231733",
    "lrUnitNumber": "140",
    "parcels": [
-    "KRUŠČICA 154/2"
+    "KRUŠČICA 154/2",
+    "KRUŠČICA 172/1B"
    ],
    "owners": [
     {
@@ -985,7 +1030,9 @@
    "lrUnitNumber": "255",
    "parcels": [
     "GORNJE PAZARIŠTE 45",
-    "GORNJE PAZARIŠTE 52"
+    "GORNJE PAZARIŠTE 52",
+    "GORNJE PAZARIŠTE 50",
+    "GORNJE PAZARIŠTE 82/3"
    ],
    "owners": [
     {
