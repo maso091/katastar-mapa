@@ -36,9 +36,8 @@ const KO_CONFIG = [
     color: "#e74c3c",
     // Z.k.ul. 426 (1/10), 1213 (6/70), 1212 (1/40)
     parcels: [
-      "1374/1", "1376/1", "1379/2", "1391/1", "1394/1", "1395/1",
-      "1395/3", "1396/3", "1396/4", "1396/5", "1396/6", "1559/4",
-      "1375/1", "1516/1",
+      "1374/1", "1375/1", "1376/1A", "1379/2", "1391/1A", "1394/1",
+      "1395/1B", "1395/3B", "1396/3", "1396/4", "1396/5", "1396/6", "1559/4",
     ],
   },
   {
@@ -48,7 +47,8 @@ const KO_CONFIG = [
     // Posjedovni list 70
     parcels: [
       "37/3", "58", "60", "109/1", "110", "113", "145/2",
-      "148/1", "148/2", "151/1", "154", "172/1", "193/3", "194/3",
+      "148/1", "148/2", "151/1", "154/1", "154/2", "154/3",
+      "172/1B", "172/1C1", "193/3", "194/3",
     ],
   },
   {
@@ -92,34 +92,37 @@ function baseNumber(label) {
   return m ? m[1] : normalize(label);
 }
 
-/** Grubi ali robustan parser INSPIRE CadastralParcel GML-a */
+/** Parser za OSS ATOM GML (GeoServer WFS 1.0, oss:CESTICE) */
 function parseGml(gmlText) {
   const parcels = [];
-  const featureRe = /<(?:\w+:)?CadastralParcel\b[\s\S]*?<\/(?:\w+:)?CadastralParcel>/g;
-  const labelRe = /<(?:\w+:)?label>([\s\S]*?)<\/(?:\w+:)?label>/;
-  const refRe = /<(?:\w+:)?nationalCadastralReference>([\s\S]*?)<\/(?:\w+:)?nationalCadastralReference>/;
-  const posListRe = /<(?:\w+:)?posList[^>]*>([\s\S]*?)<\/(?:\w+:)?posList>/g;
+  const featRe = /<oss:CESTICE\b[\s\S]*?<\/oss:CESTICE>/g;
+  const numRe = /<oss:BROJ_CESTICE>([^<]*)<\/oss:BROJ_CESTICE>/;
+  const polyRe = /<gml:Polygon[\s\S]*?<\/gml:Polygon>/g;
+  const outerRe = /<gml:outerBoundaryIs>[\s\S]*?<gml:coordinates[^>]*>([\s\S]*?)<\/gml:coordinates>/;
+  const innerRe = /<gml:innerBoundaryIs>[\s\S]*?<gml:coordinates[^>]*>([\s\S]*?)<\/gml:coordinates>/g;
+
+  const toRing = (txt) =>
+    txt.trim().split(/\s+/).map((pair) => {
+      const [e, n] = pair.split(",").map(Number);
+      const [lon, lat] = proj4("EPSG:3765", "WGS84", [e, n]);
+      return [+lon.toFixed(7), +lat.toFixed(7)];
+    }).filter((c) => Number.isFinite(c[0]) && Number.isFinite(c[1]));
 
   let f;
-  while ((f = featureRe.exec(gmlText)) !== null) {
+  while ((f = featRe.exec(gmlText)) !== null) {
     const block = f[0];
-    const label = (labelRe.exec(block) || refRe.exec(block) || [null, ""])[1].trim();
-    const rings = [];
-    let p;
-    while ((p = posListRe.exec(block)) !== null) {
-      const nums = p[1].trim().split(/\s+/).map(Number);
-      const ring = [];
-      for (let i = 0; i + 1 < nums.length; i += 2) {
-        // GML u EPSG:3765 obično dolazi kao (E, N); ako je (N, E), swap ispod
-        let [a, b] = [nums[i], nums[i + 1]];
-        // heuristika: easting u HR je ~250k–750k, northing ~4.7M–5.15M
-        const [e, n] = a > 1000000 ? [b, a] : [a, b];
-        const [lon, lat] = proj4("EPSG:3765", "WGS84", [e, n]);
-        ring.push([+lon.toFixed(7), +lat.toFixed(7)]);
-      }
-      if (ring.length >= 3) rings.push(ring);
+    const label = (numRe.exec(block) || [null, ""])[1].trim();
+    const polys = [];
+    let pm;
+    while ((pm = polyRe.exec(block)) !== null) {
+      const rings = [];
+      const o = outerRe.exec(pm[0]);
+      if (o) rings.push(toRing(o[1]));
+      let im;
+      while ((im = innerRe.exec(pm[0])) !== null) rings.push(toRing(im[1]));
+      if (rings.length && rings[0].length >= 3) polys.push(rings);
     }
-    if (label && rings.length) parcels.push({ label, rings });
+    if (label && polys.length) parcels.push({ label, polys });
   }
   return parcels;
 }
@@ -155,7 +158,7 @@ async function processKo(ko) {
     const nl = normalize(p.label);
     const nb = baseNumber(p.label);
     const exact = wantedExact.has(nl);
-    const partial = !exact && wantedBase.has(nb);
+    const partial = false; // egzaktne oznake potvrđene u DKP-u
     if (!exact && !partial) continue;
     found.add(exact ? nl : nb);
     features.push({
@@ -167,9 +170,9 @@ async function processKo(ko) {
         color: ko.color,
       },
       geometry:
-        p.rings.length === 1
-          ? { type: "Polygon", coordinates: p.rings }
-          : { type: "MultiPolygon", coordinates: p.rings.map((r) => [r]) },
+        p.polys.length === 1
+          ? { type: "Polygon", coordinates: p.polys[0] }
+          : { type: "MultiPolygon", coordinates: p.polys },
     });
   }
 
