@@ -1,0 +1,440 @@
+[
+ {
+  "lrUnitId": 9622259,
+  "lrUnitNumber": "255",
+  "mainBookId": 231729,
+  "mainBookName": "GORNJE PAZARIŠTE",
+  "cadastreMunicipalityId": 200792,
+  "institutionId": 220,
+  "institutionName": "Zemljišnoknjižni odjel Gospić",
+  "status": "0",
+  "statusName": "Aktivan",
+  "verificated": true,
+  "condominiums": false,
+  "lrUnitTypeId": 1,
+  "lrUnitTypeName": "VLASNIČKI",
+  "lastDiaryNumber": "Z-16615/2024",
+  "activePlumbs": [],
+  "ownershipSheetB": {
+   "lrUnitShares": [
+    {
+     "description": "2. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 52834350,
+       "name": "Duić Stjepan",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 23.09.2024.g. pod brojem Z-16615/2024<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Vrši se uvid u Polog isprava: Pol. 214/1963.",
+        "orderNumber": "2.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 40351399,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "2"
+    },
+    {
+     "description": "3. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 52834351,
+       "name": "Duić Matija",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 23.09.2024.g. pod brojem Z-16615/2024<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Vrši se uvid u Polog isprava: Pol. 214/1963.",
+        "orderNumber": "3.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 40351400,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "3"
+    },
+    {
+     "description": "4. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 52834372,
+       "name": "Duić Marija",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 23.09.2024.g. pod brojem Z-16615/2024<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Vrši se uvid u Polog isprava: Pol. 214/1963.",
+        "orderNumber": "4.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 40351401,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "4"
+    },
+    {
+     "description": "5. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 52834373,
+       "name": "Duić Ivka",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 23.09.2024.g. pod brojem Z-16615/2024<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Vrši se uvid u Polog isprava: Pol. 214/1963.",
+        "orderNumber": "5.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 40351402,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "5"
+    },
+    {
+     "description": "6. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 52834374,
+       "name": "Duić Josip",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 23.09.2024.g. pod brojem Z-16615/2024<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Vrši se uvid u Polog isprava: Pol. 214/1963.",
+        "orderNumber": "6.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 40351403,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "6"
+    },
+    {
+     "description": "7. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 52834375,
+       "name": "Duić Mile",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 23.09.2024.g. pod brojem Z-16615/2024<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Vrši se uvid u Polog isprava: Pol. 214/1963.",
+        "orderNumber": "7.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 40351404,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "7"
+    },
+    {
+     "description": "8. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 52834376,
+       "name": "Duić Jure",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 23.09.2024.g. pod brojem Z-16615/2024<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Vrši se uvid u Polog isprava: Pol. 214/1963.",
+        "orderNumber": "8.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 40351405,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "8"
+    }
+   ],
+   "lrEntries": []
+  },
+  "possessionSheetA1": {
+   "cadParcels": [
+    {
+     "parcelId": 38169809,
+     "parcelNumber": "45",
+     "cadMunicipalityId": 200792,
+     "cadMunicipalityRegNum": "310727",
+     "cadMunicipalityName": "GORNJE PAZARIŠTE",
+     "institutionId": 91,
+     "address": "DONJI KRČI",
+     "area": "1705",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 20",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61346030,
+       "name": "LIVADA",
+       "area": "1705",
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "cadMunicipalityId": 200792,
+       "cadMunicipalityRegNum": "310727",
+       "cadMunicipalityName": "GORNJE PAZARIŠTE",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 3,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38173638,
+     "parcelNumber": "50/P255",
+     "cadMunicipalityId": 200792,
+     "cadMunicipalityRegNum": "310727",
+     "cadMunicipalityName": "GORNJE PAZARIŠTE",
+     "institutionId": 91,
+     "address": "POD POLICAMA",
+     "area": "572",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 20",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61347328,
+       "name": "ORANICA",
+       "area": "572",
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "cadMunicipalityId": 200792,
+       "cadMunicipalityRegNum": "310727",
+       "cadMunicipalityName": "GORNJE PAZARIŠTE",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38169817,
+     "parcelNumber": "52",
+     "cadMunicipalityId": 200792,
+     "cadMunicipalityRegNum": "310727",
+     "cadMunicipalityName": "GORNJE PAZARIŠTE",
+     "institutionId": 91,
+     "address": "POD POLICAMA",
+     "area": "252",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 20",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61346090,
+       "name": "LIVADA",
+       "area": "252",
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "cadMunicipalityId": 200792,
+       "cadMunicipalityRegNum": "310727",
+       "cadMunicipalityName": "GORNJE PAZARIŠTE",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 3,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38169830,
+     "parcelNumber": "61",
+     "cadMunicipalityId": 200792,
+     "cadMunicipalityRegNum": "310727",
+     "cadMunicipalityName": "GORNJE PAZARIŠTE",
+     "institutionId": 91,
+     "address": "POD POLICAMA",
+     "area": "122",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 20",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61346101,
+       "name": "LIVADA",
+       "area": "122",
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "cadMunicipalityId": 200792,
+       "cadMunicipalityRegNum": "310727",
+       "cadMunicipalityName": "GORNJE PAZARIŠTE",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 3,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38173655,
+     "parcelNumber": "73/P255",
+     "cadMunicipalityId": 200792,
+     "cadMunicipalityRegNum": "310727",
+     "cadMunicipalityName": "GORNJE PAZARIŠTE",
+     "institutionId": 91,
+     "address": "POD POLICOM",
+     "area": "97",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 20",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61347461,
+       "name": "LIVADA",
+       "area": "97",
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "cadMunicipalityId": 200792,
+       "cadMunicipalityRegNum": "310727",
+       "cadMunicipalityName": "GORNJE PAZARIŠTE",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38171392,
+     "parcelNumber": "82/1P255",
+     "cadMunicipalityId": 200792,
+     "cadMunicipalityRegNum": "310727",
+     "cadMunicipalityName": "GORNJE PAZARIŠTE",
+     "institutionId": 91,
+     "address": "POD LOPARINOM",
+     "area": "568",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 20",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61347691,
+       "name": "ORANICA",
+       "area": "568",
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "cadMunicipalityId": 200792,
+       "cadMunicipalityRegNum": "310727",
+       "cadMunicipalityName": "GORNJE PAZARIŠTE",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38171395,
+     "parcelNumber": "82/3P255",
+     "cadMunicipalityId": 200792,
+     "cadMunicipalityRegNum": "310727",
+     "cadMunicipalityName": "GORNJE PAZARIŠTE",
+     "institutionId": 91,
+     "address": "MIKEROVAC",
+     "area": "557",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 20",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61347694,
+       "name": "ORANICA",
+       "area": "557",
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11251780,
+       "possessionSheetNumber": "255",
+       "cadMunicipalityId": 200792,
+       "cadMunicipalityRegNum": "310727",
+       "cadMunicipalityName": "GORNJE PAZARIŠTE",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    }
+   ]
+  },
+  "possessionSheetA2": {
+   "lrEntries": []
+  },
+  "encumbranceSheetC": {
+   "lrEntryGroups": []
+  }
+ }
+]

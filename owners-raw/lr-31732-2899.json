@@ -1,0 +1,614 @@
+[
+ {
+  "lrUnitId": 11641870,
+  "lrUnitNumber": "2899",
+  "mainBookId": 31732,
+  "mainBookName": "KLANAC",
+  "cadastreMunicipalityId": 1158,
+  "institutionId": 220,
+  "institutionName": "Zemljišnoknjižni odjel Gospić",
+  "status": "0",
+  "statusName": "Aktivan",
+  "verificated": true,
+  "condominiums": false,
+  "lrUnitTypeId": 1,
+  "lrUnitTypeName": "VLASNIČKI",
+  "lastDiaryNumber": "Z-3422/2025",
+  "activePlumbs": [],
+  "ownershipSheetB": {
+   "lrUnitShares": [
+    {
+     "description": "1. Suvlasnički dio: 1/10",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246090,
+       "name": "DUIĆ MATIJA ROĐ. POPOVIĆ",
+       "address": "VAGANAC BR.9/5"
+      }
+     ],
+     "lrUnitShareId": 42706011,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "1"
+    },
+    {
+     "description": "2. Suvlasnički dio: 1/10",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246083,
+       "name": "DUIĆ MARIJA KĆI STJEPANA",
+       "address": "ZAGREB,TKALČIĆEVA 72"
+      }
+     ],
+     "lrUnitShareId": 42706012,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "2"
+    },
+    {
+     "description": "3. Suvlasnički dio: 1/10",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246088,
+       "name": "DUIĆ MILE SIN STJEPANA",
+       "address": "AUSTRIJA"
+      }
+     ],
+     "lrUnitShareId": 42706013,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "3"
+    },
+    {
+     "description": "4. Suvlasnički dio: 1/10",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246089,
+       "name": "DUIĆ JURE SIN STJEPANA",
+       "address": "VAGANAC KBR.9/5"
+      }
+     ],
+     "lrUnitShareId": 42706014,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "4"
+    },
+    {
+     "description": "5. Suvlasnički dio: 1/10",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246082,
+       "name": "DUIĆ KATA KĆI STJEPANA",
+       "address": "ZAGREB, ILICA BR.124"
+      }
+     ],
+     "lrUnitShareId": 42706015,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "5"
+    },
+    {
+     "description": "6. Suvlasnički dio: 1/10",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246091,
+       "name": "DUIĆ ANA KĆI STJEPANA",
+       "address": "ZAGREB,MEDVEDGRADSKA 60"
+      }
+     ],
+     "lrUnitShareId": 42706016,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "6"
+    },
+    {
+     "description": "7. Suvlasnički dio: 1/10",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246085,
+       "name": "DUIĆ IKA KĆI STJEPANA",
+       "address": "ZAGREB,TKALČIĆEVA 72"
+      }
+     ],
+     "lrUnitShareId": 42706017,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "7"
+    },
+    {
+     "description": "8. Suvlasnički dio: 1/10",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246087,
+       "name": "DUIĆ JOSO SIN STJEPANA",
+       "address": "VAGANAC KBR.9/5"
+      }
+     ],
+     "lrUnitShareId": 42706018,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "8"
+    },
+    {
+     "description": "9. Suvlasnički dio: 1/10",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246086,
+       "name": "DUIĆ ROŽA KĆI STJEPANA",
+       "address": "ZAGREB,ILICA 124"
+      }
+     ],
+     "lrUnitShareId": 42706019,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "9"
+    },
+    {
+     "description": "10. Suvlasnički dio: 1/10",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246084,
+       "name": "DUIĆ JOSIP",
+       "address": "VAGANAC KBR. 9/5"
+      }
+     ],
+     "lrUnitShareId": 42706020,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "10"
+    }
+   ],
+   "lrEntries": []
+  },
+  "possessionSheetA1": {
+   "cadParcels": [
+    {
+     "parcelId": 12072745,
+     "parcelNumber": "1374/1",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "PODKUĆNICA",
+     "area": "216",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403473,
+       "name": "ORANICA",
+       "area": "216",
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072755,
+     "parcelNumber": "1376/1A",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "PODKUĆNICA",
+     "area": "1129",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403474,
+       "name": "ORANICA",
+       "area": "1129",
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072766,
+     "parcelNumber": "1379/2",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "PODKUĆNICA",
+     "area": "320",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403475,
+       "name": "ORANICA",
+       "area": "320",
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072791,
+     "parcelNumber": "1391/1A",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "PODKUĆNICA",
+     "area": "745",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403476,
+       "name": "ORANICA",
+       "area": "745",
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072802,
+     "parcelNumber": "1394/2B",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "STARA KUĆA",
+     "area": "518",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403477,
+       "name": "ORANICA",
+       "area": "518",
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072805,
+     "parcelNumber": "1395/1B",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "DRAGA KOD BUNARA",
+     "area": "1939",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403535,
+       "name": "ORANICA",
+       "area": "1939",
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072808,
+     "parcelNumber": "1395/3B",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "CRNI BREG",
+     "area": "593",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403536,
+       "name": "ORANICA",
+       "area": "593",
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072812,
+     "parcelNumber": "1396/3",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "CRNI BREG",
+     "area": "2967",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403537,
+       "name": "ORANICA",
+       "area": "2967",
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072813,
+     "parcelNumber": "1396/4",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "CRNI BREG",
+     "area": "1413",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403538,
+       "name": "ORANICA",
+       "area": "1413",
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072814,
+     "parcelNumber": "1396/5",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "CRNI BREG",
+     "area": "219",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403539,
+       "name": "ORANICA",
+       "area": "219",
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072815,
+     "parcelNumber": "1396/6",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "CRNI BREG",
+     "area": "939",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403540,
+       "name": "ORANICA",
+       "area": "939",
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294276,
+       "possessionSheetNumber": "2899",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    }
+   ]
+  },
+  "possessionSheetA2": {
+   "lrEntries": []
+  },
+  "encumbranceSheetC": {
+   "lrEntryGroups": []
+  }
+ }
+]

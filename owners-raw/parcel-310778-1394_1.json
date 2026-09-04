@@ -1,0 +1,83 @@
+{
+ "parcelId": 12072800,
+ "parcelNumber": "1394/1",
+ "cadMunicipalityId": 1158,
+ "cadMunicipalityRegNum": "310778",
+ "cadMunicipalityName": "KLANAC",
+ "institutionId": 91,
+ "address": "STARA KUĆA",
+ "area": "1985",
+ "buildingRemark": 0,
+ "detailSheetNumber": " 9",
+ "hasBuildingRight": false,
+ "parcelParts": [
+  {
+   "parcelPartId": 69404001,
+   "name": "ORANICA",
+   "area": "1985",
+   "possessionSheetId": 13294434,
+   "possessionSheetNumber": "2988",
+   "building": false
+  }
+ ],
+ "possessionSheets": [
+  {
+   "possessionSheetId": 13294434,
+   "possessionSheetNumber": "2988",
+   "cadMunicipalityId": 1158,
+   "possessors": [
+    {
+     "name": "Petar Milinković",
+     "address": "769 Beecher Ave., Winnipeg, Manitoba, R2V 4R3, KANADA"
+    },
+    {
+     "name": "Milan Milinković",
+     "address": "343 Cohrane Road, Hamilton, Ontario, L8K 6C2, KANADA"
+    },
+    {
+     "name": "Domagoj Delišimunović",
+     "address": "Kralja Tomislava 8, 51326 Vrbovsko, Hrvatska"
+    },
+    {
+     "name": "Rosemary Kovač",
+     "address": "497 Heather Hill Court, Ancaster, Ontario, L9G 3W6, KANADA"
+    },
+    {
+     "name": "Jasmine Yasenka Rendulich",
+     "address": "Younger Side Road, Carleton Place, Ontario, K7C 4L5, KANADA"
+    },
+    {
+     "name": "DAMIR MILINKOVIĆ",
+     "address": "Višegradska ulica 9, 10000 Zagreb, Hrvatska"
+    },
+    {
+     "name": "Dalibor Delišimunović",
+     "address": "Kralja Tomislava 8, 51326 Vrbovsko, Hrvatska"
+    },
+    {
+     "name": "Branka Rendulich",
+     "address": "259 Quigley Road, Hamilton, Ontario, L8K 6C6, KANADA"
+    },
+    {
+     "name": "Damir Milinković",
+     "address": "Višegradska ulica 9, 10000 Zagreb, Hrvatska"
+    }
+   ]
+  }
+ ],
+ "lrUnit": {
+  "lrUnitId": 11641959,
+  "lrUnitNumber": "2988",
+  "mainBookId": 31732,
+  "status": "0",
+  "verificated": false,
+  "condominiums": false
+ },
+ "isAdditionalDataSet": false,
+ "legalRegime": false,
+ "graphic": true,
+ "alphaNumeric": true,
+ "status": 0,
+ "resourceCode": 0,
+ "isHarmonized": true
+}

@@ -1,0 +1,52 @@
+{
+ "parcelId": 38169809,
+ "parcelNumber": "45",
+ "cadMunicipalityId": 200792,
+ "cadMunicipalityRegNum": "310727",
+ "cadMunicipalityName": "GORNJE PAZARIŠTE",
+ "institutionId": 91,
+ "address": "DONJI KRČI",
+ "area": "1705",
+ "buildingRemark": 0,
+ "detailSheetNumber": " 20",
+ "hasBuildingRight": false,
+ "parcelParts": [
+  {
+   "parcelPartId": 61346030,
+   "name": "LIVADA",
+   "area": "1705",
+   "possessionSheetId": 11251780,
+   "possessionSheetNumber": "255",
+   "building": false
+  }
+ ],
+ "possessionSheets": [
+  {
+   "possessionSheetId": 11251780,
+   "possessionSheetNumber": "255",
+   "cadMunicipalityId": 200792,
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "ownership": "1/1",
+     "address": "VAGANAC 9, VAGANAC"
+    }
+   ]
+  }
+ ],
+ "lrUnit": {
+  "lrUnitId": 9622259,
+  "lrUnitNumber": "255",
+  "mainBookId": 231729,
+  "status": "0",
+  "verificated": false,
+  "condominiums": false
+ },
+ "isAdditionalDataSet": false,
+ "legalRegime": false,
+ "graphic": true,
+ "alphaNumeric": true,
+ "status": 0,
+ "resourceCode": 3,
+ "isHarmonized": true
+}

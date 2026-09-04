@@ -1,0 +1,51 @@
+{
+ "parcelId": 12072805,
+ "parcelNumber": "1395/1B",
+ "cadMunicipalityId": 1158,
+ "cadMunicipalityRegNum": "310778",
+ "cadMunicipalityName": "KLANAC",
+ "institutionId": 91,
+ "address": "DRAGA KOD BUNARA",
+ "area": "1939",
+ "buildingRemark": 0,
+ "detailSheetNumber": " 9",
+ "hasBuildingRight": false,
+ "parcelParts": [
+  {
+   "parcelPartId": 69403535,
+   "name": "ORANICA",
+   "area": "1939",
+   "possessionSheetId": 13294276,
+   "possessionSheetNumber": "2899",
+   "building": false
+  }
+ ],
+ "possessionSheets": [
+  {
+   "possessionSheetId": 13294276,
+   "possessionSheetNumber": "2899",
+   "cadMunicipalityId": 1158,
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC"
+    }
+   ]
+  }
+ ],
+ "lrUnit": {
+  "lrUnitId": 11641870,
+  "lrUnitNumber": "2899",
+  "mainBookId": 31732,
+  "status": "0",
+  "verificated": false,
+  "condominiums": false
+ },
+ "isAdditionalDataSet": false,
+ "legalRegime": false,
+ "graphic": true,
+ "alphaNumeric": true,
+ "status": 0,
+ "resourceCode": 0,
+ "isHarmonized": true
+}

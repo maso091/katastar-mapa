@@ -1,0 +1,60 @@
+{
+ "parcelId": 38047686,
+ "parcelNumber": "145/2",
+ "cadMunicipalityId": 201345,
+ "cadMunicipalityRegNum": "310794",
+ "cadMunicipalityName": "KRUŠČICA",
+ "institutionId": 91,
+ "address": "POD K. ŠNARIĆA",
+ "area": "6265",
+ "buildingRemark": 0,
+ "detailSheetNumber": " 99",
+ "hasBuildingRight": false,
+ "parcelParts": [
+  {
+   "parcelPartId": 61014989,
+   "name": "ORANICA",
+   "area": "3388",
+   "possessionSheetId": 11212614,
+   "possessionSheetNumber": "70",
+   "building": false
+  },
+  {
+   "parcelPartId": 61014990,
+   "name": "LIVADA",
+   "area": "2877",
+   "possessionSheetId": 11212614,
+   "possessionSheetNumber": "70",
+   "building": false
+  }
+ ],
+ "possessionSheets": [
+  {
+   "possessionSheetId": 11212614,
+   "possessionSheetNumber": "70",
+   "cadMunicipalityId": 201345,
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "ownership": "1/1",
+     "address": "VAGANAC 9, VAGANAC"
+    }
+   ]
+  }
+ ],
+ "lrUnit": {
+  "lrUnitId": 9574991,
+  "lrUnitNumber": "70",
+  "mainBookId": 231733,
+  "status": "0",
+  "verificated": false,
+  "condominiums": false
+ },
+ "isAdditionalDataSet": false,
+ "legalRegime": false,
+ "graphic": true,
+ "alphaNumeric": true,
+ "status": 0,
+ "resourceCode": 3,
+ "isHarmonized": true
+}

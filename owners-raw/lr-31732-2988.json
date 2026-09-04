@@ -1,0 +1,569 @@
+[
+ {
+  "lrUnitId": 11641959,
+  "lrUnitNumber": "2988",
+  "mainBookId": 31732,
+  "mainBookName": "KLANAC",
+  "cadastreMunicipalityId": 1158,
+  "institutionId": 220,
+  "institutionName": "Zemljišnoknjižni odjel Gospić",
+  "status": "0",
+  "statusName": "Aktivan",
+  "verificated": true,
+  "condominiums": false,
+  "lrUnitTypeId": 1,
+  "lrUnitTypeName": "VLASNIČKI",
+  "lastDiaryNumber": "Z-3423/2025",
+  "activePlumbs": [],
+  "ownershipSheetB": {
+   "lrUnitShares": [
+    {
+     "description": "2. Suvlasnički dio: 55/270",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246506,
+       "name": "Milinković Damir",
+       "address": "Višegradska ulica 9, 10000 Zagreb, Hrvatska",
+       "taxNumber": "83872418603",
+       "lrEntry": {
+        "description": "Zaprimljeno 08.02.2023.g. pod brojem Z-919/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, RJEŠENJE O NASLJEĐIVANJU OPĆINSKI SUD U GOSPIĆU POSL. BR. O-1610/2021 (PRAVOMOĆNO) 16.09.2022",
+        "orderNumber": "2.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 42706426,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "2"
+    },
+    {
+     "description": "3. Suvlasnički dio: 10/270",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246503,
+       "name": "Delišimunović Domagoj",
+       "address": "Kralja Tomislava 8, 51326 Vrbovsko, Hrvatska",
+       "taxNumber": "92139251835",
+       "lrEntry": {
+        "description": "Zaprimljeno 08.02.2023.g. pod brojem Z-919/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, RJEŠENJE O NASLJEĐIVANJU OPĆINSKI SUD U GOSPIĆU POSL. BR. O-1610/2021 (PRAVOMOĆNO) 16.09.2022",
+        "orderNumber": "3.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 42706427,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "3"
+    },
+    {
+     "description": "4. Suvlasnički dio: 28/270",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246509,
+       "name": "MILINKOVIĆ DAMIR",
+       "address": "Višegradska ulica 9, 10000 Zagreb, Hrvatska",
+       "taxNumber": "83872418603",
+       "lrEntry": {
+        "description": "Zaprimljeno 27.01.2025.g. pod brojem Z-555/2025<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, UGOVOR O DAROVANJU OU-5/2025 27.01.2025",
+        "orderNumber": "4.2"
+       }
+      }
+     ],
+     "lrUnitShareId": 42706425,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "4"
+    },
+    {
+     "description": "5. Suvlasnički dio: 55/270",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246505,
+       "name": "Milinković Petar",
+       "address": "769 Beecher Ave., Winnipeg, Manitoba, R2V 4R3, KANADA",
+       "taxNumber": "44379368910",
+       "lrEntry": {
+        "description": "Zaprimljeno 08.02.2023.g. pod brojem Z-919/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, RJEŠENJE O NASLJEĐIVANJU OPĆINSKI SUD U GOSPIĆU POSL. BR. O-1610/2021 (PRAVOMOĆNO) 16.09.2022",
+        "orderNumber": "5.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 42706428,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "5"
+    },
+    {
+     "description": "6. Suvlasnički dio: 10/270",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246507,
+       "name": "Delišimunović Dalibor",
+       "address": "Kralja Tomislava 8, 51326 Vrbovsko, Hrvatska",
+       "taxNumber": "24685823802",
+       "lrEntry": {
+        "description": "Zaprimljeno 08.02.2023.g. pod brojem Z-919/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, RJEŠENJE O NASLJEĐIVANJU OPĆINSKI SUD U GOSPIĆU POSL. BR. O-1610/2021 (PRAVOMOĆNO) 16.09.2022",
+        "orderNumber": "6.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 42706429,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "6"
+    },
+    {
+     "description": "7. Suvlasnički dio: 28/270",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246502,
+       "name": "Milinković Milan",
+       "address": "343 Cohrane Road, Hamilton, Ontario, L8K 6C2, KANADA",
+       "lrEntry": {
+        "description": "Zaprimljeno 08.02.2023.g. pod brojem Z-919/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, RJEŠENJE O NASLJEĐIVANJU OPĆINSKI SUD U GOSPIĆU POSL. BR. O-1610/2021 (PRAVOMOĆNO) 16.09.2022",
+        "orderNumber": "7.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 42706430,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "7"
+    },
+    {
+     "description": "8. Suvlasnički dio: 28/270",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246504,
+       "name": "Kovač Rosemary",
+       "address": "497 Heather Hill Court, Ancaster, Ontario, L9G 3W6, KANADA",
+       "lrEntry": {
+        "description": "Zaprimljeno 08.02.2023.g. pod brojem Z-919/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, RJEŠENJE O NASLJEĐIVANJU OPĆINSKI SUD U GOSPIĆU POSL. BR. O-1610/2021 (PRAVOMOĆNO) 16.09.2022",
+        "orderNumber": "8.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 42706431,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "8"
+    },
+    {
+     "description": "9. Suvlasnički dio: 28/270",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246510,
+       "name": "Rendulich Jasmine Yasenka",
+       "address": "Younger Side Road, Carleton Place, Ontario, K7C 4L5, KANADA",
+       "lrEntry": {
+        "description": "Zaprimljeno 08.02.2023.g. pod brojem Z-919/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, RJEŠENJE O NASLJEĐIVANJU OPĆINSKI SUD U GOSPIĆU POSL. BR. O-1610/2021 (PRAVOMOĆNO) 16.09.2022",
+        "orderNumber": "9.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 42706432,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "9"
+    },
+    {
+     "description": "10. Suvlasnički dio: 28/270",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56246508,
+       "name": "Rendulich Branka",
+       "address": "259 Quigley Road, Hamilton, Ontario, L8K 6C6, KANADA",
+       "lrEntry": {
+        "description": "Zaprimljeno 08.02.2023.g. pod brojem Z-919/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, RJEŠENJE O NASLJEĐIVANJU OPĆINSKI SUD U GOSPIĆU POSL. BR. O-1610/2021 (PRAVOMOĆNO) 16.09.2022",
+        "orderNumber": "10.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 42706433,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "10"
+    }
+   ],
+   "lrEntries": []
+  },
+  "possessionSheetA1": {
+   "cadParcels": [
+    {
+     "parcelId": 12072751,
+     "parcelNumber": "1376/4",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "RUPA",
+     "area": "967",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403995,
+       "name": "ORANICA",
+       "area": "967",
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072762,
+     "parcelNumber": "1378/1",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "POD KUKOM",
+     "area": "345",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403996,
+       "name": "ORANICA",
+       "area": "345",
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072770,
+     "parcelNumber": "1380/3B",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "MEĐU KUĆAMA",
+     "area": "971",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403997,
+       "name": "ORANICA",
+       "area": "971",
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072782,
+     "parcelNumber": "1387/3",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "PEĆINE",
+     "area": "1593",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403998,
+       "name": "ORANICA",
+       "area": "1593",
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072797,
+     "parcelNumber": "1392/4",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "CRNI BRIG",
+     "area": "1511",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69404000,
+       "name": "ORANICA",
+       "area": "1079",
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "building": false
+      },
+      {
+       "parcelPartId": 69403999,
+       "name": "ORANICA",
+       "area": "432",
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12072800,
+     "parcelNumber": "1394/1",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "STARA KUĆA",
+     "area": "1985",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69404001,
+       "name": "ORANICA",
+       "area": "1985",
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12073123,
+     "parcelNumber": "1559/5",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "PALEŽE",
+     "area": "2039",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69404002,
+       "name": "ORANICA",
+       "area": "2039",
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12073124,
+     "parcelNumber": "1559/6",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "PALEŽE",
+     "area": "1144",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69404003,
+       "name": "ORANICA",
+       "area": "1144",
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 12073128,
+     "parcelNumber": "1559/10",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "PALEŽE",
+     "area": "1460",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69404004,
+       "name": "ORANICA",
+       "area": "1460",
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294434,
+       "possessionSheetNumber": "2988",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    }
+   ]
+  },
+  "possessionSheetA2": {
+   "lrEntries": []
+  },
+  "encumbranceSheetC": {
+   "lrEntryGroups": []
+  }
+ }
+]

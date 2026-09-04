@@ -1,0 +1,273 @@
+[
+ {
+  "lrUnitId": 11641993,
+  "lrUnitNumber": "3022",
+  "mainBookId": 31732,
+  "mainBookName": "KLANAC",
+  "cadastreMunicipalityId": 1158,
+  "institutionId": 220,
+  "institutionName": "Zemljišnoknjižni odjel Gospić",
+  "status": "0",
+  "statusName": "Aktivan",
+  "verificated": true,
+  "condominiums": false,
+  "lrUnitTypeId": 1,
+  "lrUnitTypeName": "VLASNIČKI",
+  "lastDiaryNumber": "Z-3423/2025",
+  "activePlumbs": [],
+  "ownershipSheetB": {
+   "lrUnitShares": [
+    {
+     "description": "1. Suvlasnički dio: 18/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247441,
+       "name": "DUIĆ MATIJA R. POPOVIĆ",
+       "address": "VAGANAC KBR. 9/5"
+      }
+     ],
+     "lrUnitShareId": 42707336,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "1"
+    },
+    {
+     "description": "2. Suvlasnički dio: 18/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247436,
+       "name": "DUIĆ MARIJA KĆI STJEPANA",
+       "address": "ZAGREB,TKALČIĆEVA 72"
+      }
+     ],
+     "lrUnitShareId": 42707337,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "2"
+    },
+    {
+     "description": "3. Suvlasnički dio: 18/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247440,
+       "name": "DUIĆ MILE SIN STJEPANA",
+       "address": "AUSTRIJA"
+      }
+     ],
+     "lrUnitShareId": 42707338,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "3"
+    },
+    {
+     "description": "4. Suvlasnički dio: 18/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247439,
+       "name": "DUIĆ JURE SIN STJEPANA",
+       "address": "VAGANAC KBR.9/5"
+      }
+     ],
+     "lrUnitShareId": 42707339,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "4"
+    },
+    {
+     "description": "5. Suvlasnički dio: 18/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247446,
+       "name": "DUIĆ KATA KĆI STJEPANA UDATA ROŽIĆ",
+       "address": "ZAGREB,ILICA 124"
+      }
+     ],
+     "lrUnitShareId": 42707340,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "5"
+    },
+    {
+     "description": "6. Suvlasnički dio: 18/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247445,
+       "name": "DUIĆ ANA KĆI STJEPANA",
+       "address": "ZAGREB,MEDVEDGRADSKA 60"
+      }
+     ],
+     "lrUnitShareId": 42707341,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "6"
+    },
+    {
+     "description": "7. Suvlasnički dio: 18/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247438,
+       "name": "DUIĆ IKA KĆI STJEPANA",
+       "address": "ZAGREB,TKALČIĆEVA 72"
+      }
+     ],
+     "lrUnitShareId": 42707342,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "7"
+    },
+    {
+     "description": "8. Suvlasnički dio: 18/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247447,
+       "name": "DUIĆ JOSO MLDB. SIN STJEPANA",
+       "address": "VAGANAC KBR.9/5"
+      }
+     ],
+     "lrUnitShareId": 42707343,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "8"
+    },
+    {
+     "description": "9. Suvlasnički dio: 18/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247437,
+       "name": "DUIĆ ROŽA KĆI STJEPANA",
+       "address": "ZAGREB,ILICA 124"
+      }
+     ],
+     "lrUnitShareId": 42707344,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "9"
+    },
+    {
+     "description": "10. Suvlasnički dio: 18/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247444,
+       "name": "DUIĆ JOSIP",
+       "address": "VAGANAC KBR. 9/5"
+      }
+     ],
+     "lrUnitShareId": 42707345,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "10"
+    },
+    {
+     "description": "13. Suvlasnički dio: 10/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247443,
+       "name": "ORGULAN ANKICA",
+       "address": "ZAGREB, GRUŠKA BR.18"
+      }
+     ],
+     "lrUnitShareId": 42707346,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "13"
+    },
+    {
+     "description": "14. Suvlasnički dio: 5/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247435,
+       "name": "DUIĆ MILAN",
+       "address": "ZAGREB, VILIMA KORAJCA BR. 6",
+       "taxNumber": "87866858608"
+      }
+     ],
+     "lrUnitShareId": 42707347,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "14"
+    },
+    {
+     "description": "15. Suvlasnički dio: 5/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247448,
+       "name": "DUIĆ MARIJAN",
+       "address": "ZAGREB, HVARSKA BR. 7",
+       "taxNumber": "58153277043"
+      }
+     ],
+     "lrUnitShareId": 42707348,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "15"
+    },
+    {
+     "description": "16. Suvlasnički dio: 10/210",
+     "lrOwners": [
+      {
+       "lrOwnerId": 56247442,
+       "name": "GOBAC ŽELJKO",
+       "address": "VRANOVINE BR. 16, VRANOVINE",
+       "taxNumber": "93073719817"
+      }
+     ],
+     "lrUnitShareId": 42707349,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "16"
+    }
+   ],
+   "lrEntries": []
+  },
+  "possessionSheetA1": {
+   "cadParcels": [
+    {
+     "parcelId": 12072747,
+     "parcelNumber": "1375/1",
+     "cadMunicipalityId": 1158,
+     "cadMunicipalityRegNum": "310778",
+     "cadMunicipalityName": "KLANAC",
+     "institutionId": 91,
+     "address": "VOĆAR",
+     "area": "1273",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 9",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 69403756,
+       "name": "ORANICA",
+       "area": "1273",
+       "possessionSheetId": 13294337,
+       "possessionSheetNumber": "3022",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 13294337,
+       "possessionSheetNumber": "3022",
+       "cadMunicipalityId": 1158,
+       "cadMunicipalityRegNum": "310778",
+       "cadMunicipalityName": "KLANAC",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    }
+   ]
+  },
+  "possessionSheetA2": {
+   "lrEntries": []
+  },
+  "encumbranceSheetC": {
+   "lrEntryGroups": []
+  }
+ }
+]

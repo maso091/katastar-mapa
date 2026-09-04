@@ -1,0 +1,1057 @@
+{
+ "generated": "2026-09-04T16:39:00.088Z",
+ "parcels": [
+  {
+   "ko": "KLANAC",
+   "broj": "1374/1",
+   "parcelId": "12072745",
+   "area": "216",
+   "address": "PODKUĆNICA",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": null
+    }
+   ],
+   "lrRefs": [
+    "31732/2899"
+   ]
+  },
+  {
+   "ko": "KLANAC",
+   "broj": "1375/1",
+   "parcelId": "12072747",
+   "area": "1273",
+   "address": "VOĆAR",
+   "possessors": [
+    {
+     "name": "IKA DUIĆ",
+     "address": "TKALČIĆEVA 72, ZAGREB",
+     "share": null
+    },
+    {
+     "name": "MILE DUIĆ",
+     "address": "AUSTRIJA",
+     "share": null
+    },
+    {
+     "name": "ANA DUIĆ",
+     "address": "MEDVEDGRADSKA 60, ZAGREB",
+     "share": null
+    },
+    {
+     "name": "JOSO DUIĆ",
+     "address": "VAGANAC 9/5, VAGANAC",
+     "share": null
+    },
+    {
+     "name": "JURE DUIĆ",
+     "address": "VAGANAC 9/5, VAGANAC",
+     "share": null
+    },
+    {
+     "name": "MILAN DUIĆ",
+     "address": "VILIMA KORAJCA 6, ZAGREB",
+     "share": null
+    },
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": null
+    },
+    {
+     "name": "KATA DUIĆ",
+     "address": "ILICA 124, ZAGREB",
+     "share": null
+    },
+    {
+     "name": "MATIJA DUIĆ",
+     "address": "VAGANAC 9/5, VAGANAC",
+     "share": null
+    },
+    {
+     "name": "MARIJAN DUIĆ",
+     "address": "HVARSKA 7, ZAGREB",
+     "share": null
+    },
+    {
+     "name": "ROŽA DUIĆ",
+     "address": "ILICA 124, ZAGREB",
+     "share": null
+    },
+    {
+     "name": "ŽELJKO GOBAC",
+     "address": "VRANOVINE 16, Vranovine, HRVATSKA",
+     "share": null
+    },
+    {
+     "name": "MARIJA DUIĆ",
+     "address": "TKALČIĆEVA 72, ZAGREB",
+     "share": null
+    },
+    {
+     "name": "ANKICA ORGULAN",
+     "address": "GRUŠKA 18, ZAGREB",
+     "share": null
+    }
+   ],
+   "lrRefs": [
+    "31732/3022"
+   ]
+  },
+  {
+   "ko": "KLANAC",
+   "broj": "1376/1A",
+   "parcelId": "12072755",
+   "area": "1129",
+   "address": "PODKUĆNICA",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": null
+    }
+   ],
+   "lrRefs": [
+    "31732/2899"
+   ]
+  },
+  {
+   "ko": "KLANAC",
+   "broj": "1379/2",
+   "parcelId": "12072766",
+   "area": "320",
+   "address": "PODKUĆNICA",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": null
+    }
+   ],
+   "lrRefs": [
+    "31732/2899"
+   ]
+  },
+  {
+   "ko": "KLANAC",
+   "broj": "1391/1A",
+   "parcelId": "12072791",
+   "area": "745",
+   "address": "PODKUĆNICA",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": null
+    }
+   ],
+   "lrRefs": [
+    "31732/2899"
+   ]
+  },
+  {
+   "ko": "KLANAC",
+   "broj": "1394/1",
+   "parcelId": "12072800",
+   "area": "1985",
+   "address": "STARA KUĆA",
+   "possessors": [
+    {
+     "name": "Petar Milinković",
+     "address": "769 Beecher Ave., Winnipeg, Manitoba, R2V 4R3, KANADA",
+     "share": null
+    },
+    {
+     "name": "Milan Milinković",
+     "address": "343 Cohrane Road, Hamilton, Ontario, L8K 6C2, KANADA",
+     "share": null
+    },
+    {
+     "name": "Domagoj Delišimunović",
+     "address": "Kralja Tomislava 8, 51326 Vrbovsko, Hrvatska",
+     "share": null
+    },
+    {
+     "name": "Rosemary Kovač",
+     "address": "497 Heather Hill Court, Ancaster, Ontario, L9G 3W6, KANADA",
+     "share": null
+    },
+    {
+     "name": "Jasmine Yasenka Rendulich",
+     "address": "Younger Side Road, Carleton Place, Ontario, K7C 4L5, KANADA",
+     "share": null
+    },
+    {
+     "name": "DAMIR MILINKOVIĆ",
+     "address": "Višegradska ulica 9, 10000 Zagreb, Hrvatska",
+     "share": null
+    },
+    {
+     "name": "Dalibor Delišimunović",
+     "address": "Kralja Tomislava 8, 51326 Vrbovsko, Hrvatska",
+     "share": null
+    },
+    {
+     "name": "Branka Rendulich",
+     "address": "259 Quigley Road, Hamilton, Ontario, L8K 6C6, KANADA",
+     "share": null
+    },
+    {
+     "name": "Damir Milinković",
+     "address": "Višegradska ulica 9, 10000 Zagreb, Hrvatska",
+     "share": null
+    }
+   ],
+   "lrRefs": [
+    "31732/2988"
+   ]
+  },
+  {
+   "ko": "KLANAC",
+   "broj": "1395/1B",
+   "parcelId": "12072805",
+   "area": "1939",
+   "address": "DRAGA KOD BUNARA",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": null
+    }
+   ],
+   "lrRefs": [
+    "31732/2899"
+   ]
+  },
+  {
+   "ko": "KLANAC",
+   "broj": "1395/3B",
+   "parcelId": "12072808",
+   "area": "593",
+   "address": "CRNI BREG",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": null
+    }
+   ],
+   "lrRefs": [
+    "31732/2899"
+   ]
+  },
+  {
+   "ko": "KLANAC",
+   "broj": "1396/3",
+   "parcelId": "12072812",
+   "area": "2967",
+   "address": "CRNI BREG",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": null
+    }
+   ],
+   "lrRefs": [
+    "31732/2899"
+   ]
+  },
+  {
+   "ko": "KLANAC",
+   "broj": "1396/4",
+   "parcelId": "12072813",
+   "area": "1413",
+   "address": "CRNI BREG",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": null
+    }
+   ],
+   "lrRefs": [
+    "31732/2899"
+   ]
+  },
+  {
+   "ko": "KLANAC",
+   "broj": "1396/5",
+   "parcelId": "12072814",
+   "area": "219",
+   "address": "CRNI BREG",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": null
+    }
+   ],
+   "lrRefs": [
+    "31732/2899"
+   ]
+  },
+  {
+   "ko": "KLANAC",
+   "broj": "1396/6",
+   "parcelId": "12072815",
+   "area": "939",
+   "address": "CRNI BREG",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": null
+    }
+   ],
+   "lrRefs": [
+    "31732/2899"
+   ]
+  },
+  {
+   "ko": "KLANAC",
+   "broj": "1559/4",
+   "parcelId": "12073122",
+   "area": "5176",
+   "address": "PALEŽ",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": "1/1"
+    }
+   ],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "37/3",
+   "parcelId": "38048184",
+   "area": "3302",
+   "address": "MILINKUŠA",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": "1/1"
+    }
+   ],
+   "lrRefs": [
+    "231733/70"
+   ]
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "58",
+   "parcelId": "38048212",
+   "area": null,
+   "address": "PODRINOVAČA",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "60",
+   "parcelId": "38048214",
+   "area": null,
+   "address": "RUKAVINKA",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "109/1",
+   "parcelId": "38047401",
+   "area": null,
+   "address": "BARICA",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "110",
+   "parcelId": "38047403",
+   "area": null,
+   "address": "RUKAVINKA",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "113",
+   "parcelId": "38047406",
+   "area": null,
+   "address": "RUKAVINKA",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "145/2",
+   "parcelId": "38047686",
+   "area": "6265",
+   "address": "POD K. ŠNARIĆA",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": "1/1"
+    }
+   ],
+   "lrRefs": [
+    "231733/70"
+   ]
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "148/1",
+   "parcelId": "38047691",
+   "area": null,
+   "address": "OGRADE",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "148/2",
+   "parcelId": "38047692",
+   "area": null,
+   "address": "DOLAC",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "151/1",
+   "parcelId": "38047737",
+   "area": null,
+   "address": "DILI",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "154/1",
+   "parcelId": "38047741",
+   "area": null,
+   "address": "KRPANKA",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "154/2",
+   "parcelId": "38047742",
+   "area": "644",
+   "address": "KRPANKA",
+   "possessors": [
+    {
+     "name": "Martin Balenović",
+     "address": "Oteš, Brezovo Polje 91",
+     "share": "1/1"
+    }
+   ],
+   "lrRefs": [
+    "231733/140"
+   ]
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "154/3",
+   "parcelId": "38047743",
+   "area": null,
+   "address": "KRPANKA",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "172/1B",
+   "parcelId": "38047784",
+   "area": null,
+   "address": "GLAVAŠICA",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "172/1C1",
+   "parcelId": "38048238",
+   "area": null,
+   "address": "VRTLIĆ",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "193/3",
+   "parcelId": "38048281",
+   "area": null,
+   "address": "GLAVIČICA",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "KRUŠČICA",
+   "broj": "194/3",
+   "parcelId": "38048284",
+   "area": null,
+   "address": "DOLAC",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "GORNJE PAZARIŠTE",
+   "broj": "45",
+   "parcelId": "38169809",
+   "area": "1705",
+   "address": "DONJI KRČI",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": "1/1"
+    }
+   ],
+   "lrRefs": [
+    "231729/255"
+   ]
+  },
+  {
+   "ko": "GORNJE PAZARIŠTE",
+   "broj": "50",
+   "parcelId": "38169815",
+   "area": null,
+   "address": "POD POLICAMA",
+   "possessors": [],
+   "lrRefs": []
+  },
+  {
+   "ko": "GORNJE PAZARIŠTE",
+   "broj": "52",
+   "parcelId": "38169817",
+   "area": "252",
+   "address": "POD POLICAMA",
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "address": "VAGANAC 9, VAGANAC",
+     "share": "1/1"
+    }
+   ],
+   "lrRefs": [
+    "231729/255"
+   ]
+  },
+  {
+   "ko": "GORNJE PAZARIŠTE",
+   "broj": "82/3",
+   "parcelId": "38170118",
+   "area": null,
+   "address": "MIKEROVAC",
+   "possessors": [],
+   "lrRefs": []
+  }
+ ],
+ "lrUnits": {
+  "31732/2899": {
+   "mainBookId": "31732",
+   "lrUnitNumber": "2899",
+   "parcels": [
+    "KLANAC 1374/1",
+    "KLANAC 1376/1A",
+    "KLANAC 1379/2",
+    "KLANAC 1391/1A",
+    "KLANAC 1395/1B",
+    "KLANAC 1395/3B",
+    "KLANAC 1396/3",
+    "KLANAC 1396/4",
+    "KLANAC 1396/5",
+    "KLANAC 1396/6"
+   ],
+   "owners": [
+    {
+     "share": "1. Suvlasnički dio: 1/10",
+     "owners": [
+      {
+       "name": "DUIĆ MATIJA ROĐ. POPOVIĆ",
+       "address": "VAGANAC BR.9/5"
+      }
+     ]
+    },
+    {
+     "share": "2. Suvlasnički dio: 1/10",
+     "owners": [
+      {
+       "name": "DUIĆ MARIJA KĆI STJEPANA",
+       "address": "ZAGREB,TKALČIĆEVA 72"
+      }
+     ]
+    },
+    {
+     "share": "3. Suvlasnički dio: 1/10",
+     "owners": [
+      {
+       "name": "DUIĆ MILE SIN STJEPANA",
+       "address": "AUSTRIJA"
+      }
+     ]
+    },
+    {
+     "share": "4. Suvlasnički dio: 1/10",
+     "owners": [
+      {
+       "name": "DUIĆ JURE SIN STJEPANA",
+       "address": "VAGANAC KBR.9/5"
+      }
+     ]
+    },
+    {
+     "share": "5. Suvlasnički dio: 1/10",
+     "owners": [
+      {
+       "name": "DUIĆ KATA KĆI STJEPANA",
+       "address": "ZAGREB, ILICA BR.124"
+      }
+     ]
+    },
+    {
+     "share": "6. Suvlasnički dio: 1/10",
+     "owners": [
+      {
+       "name": "DUIĆ ANA KĆI STJEPANA",
+       "address": "ZAGREB,MEDVEDGRADSKA 60"
+      }
+     ]
+    },
+    {
+     "share": "7. Suvlasnički dio: 1/10",
+     "owners": [
+      {
+       "name": "DUIĆ IKA KĆI STJEPANA",
+       "address": "ZAGREB,TKALČIĆEVA 72"
+      }
+     ]
+    },
+    {
+     "share": "8. Suvlasnički dio: 1/10",
+     "owners": [
+      {
+       "name": "DUIĆ JOSO SIN STJEPANA",
+       "address": "VAGANAC KBR.9/5"
+      }
+     ]
+    },
+    {
+     "share": "9. Suvlasnički dio: 1/10",
+     "owners": [
+      {
+       "name": "DUIĆ ROŽA KĆI STJEPANA",
+       "address": "ZAGREB,ILICA 124"
+      }
+     ]
+    },
+    {
+     "share": "10. Suvlasnički dio: 1/10",
+     "owners": [
+      {
+       "name": "DUIĆ JOSIP",
+       "address": "VAGANAC KBR. 9/5"
+      }
+     ]
+    }
+   ]
+  },
+  "31732/3022": {
+   "mainBookId": "31732",
+   "lrUnitNumber": "3022",
+   "parcels": [
+    "KLANAC 1375/1"
+   ],
+   "owners": [
+    {
+     "share": "1. Suvlasnički dio: 18/210",
+     "owners": [
+      {
+       "name": "DUIĆ MATIJA R. POPOVIĆ",
+       "address": "VAGANAC KBR. 9/5"
+      }
+     ]
+    },
+    {
+     "share": "2. Suvlasnički dio: 18/210",
+     "owners": [
+      {
+       "name": "DUIĆ MARIJA KĆI STJEPANA",
+       "address": "ZAGREB,TKALČIĆEVA 72"
+      }
+     ]
+    },
+    {
+     "share": "3. Suvlasnički dio: 18/210",
+     "owners": [
+      {
+       "name": "DUIĆ MILE SIN STJEPANA",
+       "address": "AUSTRIJA"
+      }
+     ]
+    },
+    {
+     "share": "4. Suvlasnički dio: 18/210",
+     "owners": [
+      {
+       "name": "DUIĆ JURE SIN STJEPANA",
+       "address": "VAGANAC KBR.9/5"
+      }
+     ]
+    },
+    {
+     "share": "5. Suvlasnički dio: 18/210",
+     "owners": [
+      {
+       "name": "DUIĆ KATA KĆI STJEPANA UDATA ROŽIĆ",
+       "address": "ZAGREB,ILICA 124"
+      }
+     ]
+    },
+    {
+     "share": "6. Suvlasnički dio: 18/210",
+     "owners": [
+      {
+       "name": "DUIĆ ANA KĆI STJEPANA",
+       "address": "ZAGREB,MEDVEDGRADSKA 60"
+      }
+     ]
+    },
+    {
+     "share": "7. Suvlasnički dio: 18/210",
+     "owners": [
+      {
+       "name": "DUIĆ IKA KĆI STJEPANA",
+       "address": "ZAGREB,TKALČIĆEVA 72"
+      }
+     ]
+    },
+    {
+     "share": "8. Suvlasnički dio: 18/210",
+     "owners": [
+      {
+       "name": "DUIĆ JOSO MLDB. SIN STJEPANA",
+       "address": "VAGANAC KBR.9/5"
+      }
+     ]
+    },
+    {
+     "share": "9. Suvlasnički dio: 18/210",
+     "owners": [
+      {
+       "name": "DUIĆ ROŽA KĆI STJEPANA",
+       "address": "ZAGREB,ILICA 124"
+      }
+     ]
+    },
+    {
+     "share": "10. Suvlasnički dio: 18/210",
+     "owners": [
+      {
+       "name": "DUIĆ JOSIP",
+       "address": "VAGANAC KBR. 9/5"
+      }
+     ]
+    },
+    {
+     "share": "13. Suvlasnički dio: 10/210",
+     "owners": [
+      {
+       "name": "ORGULAN ANKICA",
+       "address": "ZAGREB, GRUŠKA BR.18"
+      }
+     ]
+    },
+    {
+     "share": "14. Suvlasnički dio: 5/210",
+     "owners": [
+      {
+       "name": "DUIĆ MILAN",
+       "address": "ZAGREB, VILIMA KORAJCA BR. 6"
+      }
+     ]
+    },
+    {
+     "share": "15. Suvlasnički dio: 5/210",
+     "owners": [
+      {
+       "name": "DUIĆ MARIJAN",
+       "address": "ZAGREB, HVARSKA BR. 7"
+      }
+     ]
+    },
+    {
+     "share": "16. Suvlasnički dio: 10/210",
+     "owners": [
+      {
+       "name": "GOBAC ŽELJKO",
+       "address": "VRANOVINE BR. 16, VRANOVINE"
+      }
+     ]
+    }
+   ]
+  },
+  "31732/2988": {
+   "mainBookId": "31732",
+   "lrUnitNumber": "2988",
+   "parcels": [
+    "KLANAC 1394/1"
+   ],
+   "owners": [
+    {
+     "share": "2. Suvlasnički dio: 55/270",
+     "owners": [
+      {
+       "name": "Milinković Damir",
+       "address": "Višegradska ulica 9, 10000 Zagreb, Hrvatska"
+      }
+     ]
+    },
+    {
+     "share": "3. Suvlasnički dio: 10/270",
+     "owners": [
+      {
+       "name": "Delišimunović Domagoj",
+       "address": "Kralja Tomislava 8, 51326 Vrbovsko, Hrvatska"
+      }
+     ]
+    },
+    {
+     "share": "4. Suvlasnički dio: 28/270",
+     "owners": [
+      {
+       "name": "MILINKOVIĆ DAMIR",
+       "address": "Višegradska ulica 9, 10000 Zagreb, Hrvatska"
+      }
+     ]
+    },
+    {
+     "share": "5. Suvlasnički dio: 55/270",
+     "owners": [
+      {
+       "name": "Milinković Petar",
+       "address": "769 Beecher Ave., Winnipeg, Manitoba, R2V 4R3, KANADA"
+      }
+     ]
+    },
+    {
+     "share": "6. Suvlasnički dio: 10/270",
+     "owners": [
+      {
+       "name": "Delišimunović Dalibor",
+       "address": "Kralja Tomislava 8, 51326 Vrbovsko, Hrvatska"
+      }
+     ]
+    },
+    {
+     "share": "7. Suvlasnički dio: 28/270",
+     "owners": [
+      {
+       "name": "Milinković Milan",
+       "address": "343 Cohrane Road, Hamilton, Ontario, L8K 6C2, KANADA"
+      }
+     ]
+    },
+    {
+     "share": "8. Suvlasnički dio: 28/270",
+     "owners": [
+      {
+       "name": "Kovač Rosemary",
+       "address": "497 Heather Hill Court, Ancaster, Ontario, L9G 3W6, KANADA"
+      }
+     ]
+    },
+    {
+     "share": "9. Suvlasnički dio: 28/270",
+     "owners": [
+      {
+       "name": "Rendulich Jasmine Yasenka",
+       "address": "Younger Side Road, Carleton Place, Ontario, K7C 4L5, KANADA"
+      }
+     ]
+    },
+    {
+     "share": "10. Suvlasnički dio: 28/270",
+     "owners": [
+      {
+       "name": "Rendulich Branka",
+       "address": "259 Quigley Road, Hamilton, Ontario, L8K 6C6, KANADA"
+      }
+     ]
+    }
+   ]
+  },
+  "231733/70": {
+   "mainBookId": "231733",
+   "lrUnitNumber": "70",
+   "parcels": [
+    "KRUŠČICA 37/3",
+    "KRUŠČICA 145/2"
+   ],
+   "owners": [
+    {
+     "share": "2. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Stjepan",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    },
+    {
+     "share": "3. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Matija",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    },
+    {
+     "share": "4. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Marija",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    },
+    {
+     "share": "5. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Ivka",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    },
+    {
+     "share": "6. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Josip",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    },
+    {
+     "share": "7. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Mile",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    },
+    {
+     "share": "8. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Jure",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    }
+   ]
+  },
+  "231733/140": {
+   "mainBookId": "231733",
+   "lrUnitNumber": "140",
+   "parcels": [
+    "KRUŠČICA 154/2"
+   ],
+   "owners": [
+    {
+     "share": "1. Vlasnički dio: 1/1",
+     "owners": [
+      {
+       "name": "Balenović Martin",
+       "address": "Oteš, Brezovo Polje 91"
+      }
+     ]
+    }
+   ]
+  },
+  "231729/255": {
+   "mainBookId": "231729",
+   "lrUnitNumber": "255",
+   "parcels": [
+    "GORNJE PAZARIŠTE 45",
+    "GORNJE PAZARIŠTE 52"
+   ],
+   "owners": [
+    {
+     "share": "2. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Stjepan",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    },
+    {
+     "share": "3. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Matija",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    },
+    {
+     "share": "4. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Marija",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    },
+    {
+     "share": "5. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Ivka",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    },
+    {
+     "share": "6. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Josip",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    },
+    {
+     "share": "7. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Mile",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    },
+    {
+     "share": "8. Suvlasnički dio: 1/7",
+     "owners": [
+      {
+       "name": "Duić Jure",
+       "address": "Vaganac 9/5, 53000 Gospić"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

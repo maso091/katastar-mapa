@@ -1,0 +1,249 @@
+[
+ {
+  "lrUnitId": 9574951,
+  "lrUnitNumber": "140",
+  "mainBookId": 231733,
+  "mainBookName": "KRUŠČICA",
+  "cadastreMunicipalityId": 201345,
+  "institutionId": 220,
+  "institutionName": "Zemljišnoknjižni odjel Gospić",
+  "status": "0",
+  "statusName": "Aktivan",
+  "verificated": true,
+  "condominiums": false,
+  "lrUnitTypeId": 1,
+  "lrUnitTypeName": "VLASNIČKI",
+  "lastDiaryNumber": "Z-2683/2026",
+  "activePlumbs": [],
+  "ownershipSheetB": {
+   "lrUnitShares": [
+    {
+     "description": "1. Vlasnički dio: 1/1",
+     "lrOwners": [
+      {
+       "lrOwnerId": 46511822,
+       "name": "Balenović Martin",
+       "address": "Oteš, Brezovo Polje 91",
+       "taxNumber": "83611875143"
+      }
+     ],
+     "lrUnitShareId": 35642061,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "1"
+    }
+   ],
+   "lrEntries": []
+  },
+  "possessionSheetA1": {
+   "cadParcels": [
+    {
+     "parcelId": 38047742,
+     "parcelNumber": "154/2",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "KRPANKA",
+     "area": "644",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61013766,
+       "name": "ORANICA",
+       "area": "644",
+       "possessionSheetId": 11212574,
+       "possessionSheetNumber": "140",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212574,
+       "possessionSheetNumber": "140",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38047343,
+     "parcelNumber": "172/1BP140",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "GLAVAŠICA",
+     "area": "7769",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61014552,
+       "name": "ŠUMA",
+       "area": "7769",
+       "possessionSheetId": 11212574,
+       "possessionSheetNumber": "140",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212574,
+       "possessionSheetNumber": "140",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38048285,
+     "parcelNumber": "195/1",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "DOLAC",
+     "area": "1601",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61013900,
+       "name": "ORANICA",
+       "area": "1601",
+       "possessionSheetId": 11212574,
+       "possessionSheetNumber": "140",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212574,
+       "possessionSheetNumber": "140",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38048287,
+     "parcelNumber": "195/1A",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "DOLAC",
+     "area": "435",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61013903,
+       "name": "ORANICA",
+       "area": "435",
+       "possessionSheetId": 11212574,
+       "possessionSheetNumber": "140",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212574,
+       "possessionSheetNumber": "140",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38048288,
+     "parcelNumber": "195/1B",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "DOLAC",
+     "area": "47",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61013904,
+       "name": "KUĆA I DV.",
+       "area": "47",
+       "possessionSheetId": 11212574,
+       "possessionSheetNumber": "140",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212574,
+       "possessionSheetNumber": "140",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    }
+   ]
+  },
+  "possessionSheetA2": {
+   "lrEntries": []
+  },
+  "encumbranceSheetC": {
+   "lrEntryGroups": []
+  }
+ }
+]

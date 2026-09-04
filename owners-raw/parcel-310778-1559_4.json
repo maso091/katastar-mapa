@@ -1,0 +1,50 @@
+{
+ "parcelId": 12073122,
+ "parcelNumber": "1559/4",
+ "cadMunicipalityId": 1158,
+ "cadMunicipalityRegNum": "310778",
+ "cadMunicipalityName": "KLANAC",
+ "institutionId": 91,
+ "address": "PALEŽ",
+ "area": "5176",
+ "buildingRemark": 0,
+ "detailSheetNumber": " 8",
+ "hasBuildingRight": false,
+ "parcelParts": [
+  {
+   "parcelPartId": 16543543,
+   "name": "ORANICA",
+   "area": "5176",
+   "possessionSheetId": 4164891,
+   "possessionSheetNumber": "426",
+   "lastChangeLogFileNum": "UP/I 932-07/2025-04/122",
+   "lastChangeLogNumber": "107/2025",
+   "building": false
+  }
+ ],
+ "possessionSheets": [
+  {
+   "possessionSheetId": 4164891,
+   "possessionSheetNumber": "426",
+   "cadMunicipalityId": 1158,
+   "cadMunicipalityRegNum": "310778",
+   "cadMunicipalityName": "KLANAC",
+   "possessionSheetTypeId": 1,
+   "possessors": [
+    {
+     "name": "JOSIP DUIĆ",
+     "ownership": "1/1",
+     "address": "VAGANAC 9, VAGANAC"
+    }
+   ]
+  }
+ ],
+ "parcelLinks": [],
+ "isAdditionalDataSet": false,
+ "legalRegime": false,
+ "graphic": true,
+ "alphaNumeric": true,
+ "status": 0,
+ "resourceCode": 3,
+ "isHarmonized": false
+}

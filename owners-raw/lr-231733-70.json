@@ -1,0 +1,768 @@
+[
+ {
+  "lrUnitId": 9574991,
+  "lrUnitNumber": "70",
+  "mainBookId": 231733,
+  "mainBookName": "KRUŠČICA",
+  "cadastreMunicipalityId": 201345,
+  "institutionId": 220,
+  "institutionName": "Zemljišnoknjižni odjel Gospić",
+  "status": "0",
+  "statusName": "Aktivan",
+  "verificated": true,
+  "condominiums": false,
+  "lrUnitTypeId": 1,
+  "lrUnitTypeName": "VLASNIČKI",
+  "lastDiaryNumber": "Z-3443/2023",
+  "activePlumbs": [],
+  "ownershipSheetB": {
+   "lrUnitShares": [
+    {
+     "description": "2. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 46715780,
+       "name": "Duić Stjepan",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 24.05.2023.g. pod brojem Z-3443/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Na temelju Pologa isprava: Pol. 214/1963 uknjižuje se pravo vlasništva za korist:",
+        "orderNumber": "2.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 35771503,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "2"
+    },
+    {
+     "description": "3. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 46715781,
+       "name": "Duić Matija",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 24.05.2023.g. pod brojem Z-3443/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Na temelju Pologa isprava: Pol. 214/1963 uknjižuje se pravo vlasništva za korist:",
+        "orderNumber": "3.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 35771504,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "3"
+    },
+    {
+     "description": "4. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 46715782,
+       "name": "Duić Marija",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 24.05.2023.g. pod brojem Z-3443/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Na temelju Pologa isprava: Pol. 214/1963 uknjižuje se pravo vlasništva za korist:",
+        "orderNumber": "4.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 35771505,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "4"
+    },
+    {
+     "description": "5. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 46715783,
+       "name": "Duić Ivka",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 24.05.2023.g. pod brojem Z-3443/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Na temelju Pologa isprava: Pol. 214/1963 uknjižuje se pravo vlasništva za korist:",
+        "orderNumber": "5.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 35771506,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "5"
+    },
+    {
+     "description": "6. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 46715784,
+       "name": "Duić Josip",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 24.05.2023.g. pod brojem Z-3443/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Na temelju Pologa isprava: Pol. 214/1963 uknjižuje se pravo vlasništva za korist:",
+        "orderNumber": "6.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 35771507,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "6"
+    },
+    {
+     "description": "7. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 46715785,
+       "name": "Duić Mile",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 24.05.2023.g. pod brojem Z-3443/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Na temelju Pologa isprava: Pol. 214/1963 uknjižuje se pravo vlasništva za korist:",
+        "orderNumber": "7.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 35771508,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "7"
+    },
+    {
+     "description": "8. Suvlasnički dio: 1/7",
+     "lrOwners": [
+      {
+       "lrOwnerId": 46715786,
+       "name": "Duić Jure",
+       "address": "Vaganac 9/5, 53000 Gospić",
+       "lrEntry": {
+        "description": "Zaprimljeno 24.05.2023.g. pod brojem Z-3443/2023<br><br>UKNJIŽBA, PRAVO VLASNIŠTVA, Na temelju Pologa isprava: Pol. 214/1963 uknjižuje se pravo vlasništva za korist:",
+        "orderNumber": "8.1"
+       }
+      }
+     ],
+     "lrUnitShareId": 35771509,
+     "subSharesAndEntries": [],
+     "status": 0,
+     "orderNumber": "8"
+    }
+   ],
+   "lrEntries": []
+  },
+  "possessionSheetA1": {
+   "cadParcels": [
+    {
+     "parcelId": 38048184,
+     "parcelNumber": "37/3",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "MILINKUŠA",
+     "area": "3302",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61014042,
+       "name": "ORANICA",
+       "area": "3302",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 3,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38047323,
+     "parcelNumber": "58/P70",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "PODRINOVAČA",
+     "area": "381",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61014532,
+       "name": "LIVADA",
+       "area": "381",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38047325,
+     "parcelNumber": "60/P70",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "RUKAVINKA",
+     "area": "111",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61014534,
+       "name": "LIVADA",
+       "area": "111",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38048306,
+     "parcelNumber": "109/1P70",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "BARICA",
+     "area": "608",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61013922,
+       "name": "LIVADA",
+       "area": "608",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38048314,
+     "parcelNumber": "110/P70",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "RUKAVINKA",
+     "area": "518",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61013960,
+       "name": "LIVADA",
+       "area": "518",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38048317,
+     "parcelNumber": "113/P70",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "RUKAVINKA",
+     "area": "183",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61013963,
+       "name": "LIVADA",
+       "area": "183",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38047686,
+     "parcelNumber": "145/2",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "POD K. ŠNARIĆA",
+     "area": "6265",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61014989,
+       "name": "ORANICA",
+       "area": "3388",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      },
+      {
+       "parcelPartId": 61014990,
+       "name": "LIVADA",
+       "area": "2877",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": true,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 3,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38048450,
+     "parcelNumber": "148/1P70",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "OGRADE",
+     "area": "1816",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61014204,
+       "name": "ORANICA",
+       "area": "1816",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38048453,
+     "parcelNumber": "148/2P70",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "DOLAC",
+     "area": "1194",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61014207,
+       "name": "ORANICA",
+       "area": "1194",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38048466,
+     "parcelNumber": "151/1P70",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "DILI",
+     "area": "547",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61014265,
+       "name": "ORANICA",
+       "area": "547",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38048470,
+     "parcelNumber": "154/1P70",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "KRPANKA",
+     "area": "888",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61014269,
+       "name": "ORANICA",
+       "area": "888",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38047294,
+     "parcelNumber": "172/1BP70",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "GLAVAŠICA",
+     "area": "15487",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61014503,
+       "name": "ŠUMA",
+       "area": "15487",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38047200,
+     "parcelNumber": "172/1C1P70",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "VRTLIĆ",
+     "area": "719",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61014337,
+       "name": "ORANICA",
+       "area": "719",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38048474,
+     "parcelNumber": "193/3P70",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "GLAVIČICA",
+     "area": "180",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61014273,
+       "name": "ORANICA",
+       "area": "180",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    },
+    {
+     "parcelId": 38048477,
+     "parcelNumber": "194/3P70",
+     "cadMunicipalityId": 201345,
+     "cadMunicipalityRegNum": "310794",
+     "cadMunicipalityName": "KRUŠČICA",
+     "institutionId": 91,
+     "address": "DOLAC",
+     "area": "97",
+     "buildingRemark": 0,
+     "detailSheetNumber": " 99",
+     "hasBuildingRight": false,
+     "parcelParts": [
+      {
+       "parcelPartId": 61014278,
+       "name": "KUĆA I DV.",
+       "area": "97",
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "building": false
+      }
+     ],
+     "possessionSheets": [
+      {
+       "possessionSheetId": 11212614,
+       "possessionSheetNumber": "70",
+       "cadMunicipalityId": 201345,
+       "cadMunicipalityRegNum": "310794",
+       "cadMunicipalityName": "KRUŠČICA",
+       "possessors": []
+      }
+     ],
+     "isAdditionalDataSet": false,
+     "legalRegime": false,
+     "graphic": false,
+     "alphaNumeric": true,
+     "status": 0,
+     "resourceCode": 0,
+     "isHarmonized": false
+    }
+   ]
+  },
+  "possessionSheetA2": {
+   "lrEntries": []
+  },
+  "encumbranceSheetC": {
+   "lrEntryGroups": []
+  }
+ }
+]

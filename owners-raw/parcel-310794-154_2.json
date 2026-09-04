@@ -1,0 +1,52 @@
+{
+ "parcelId": 38047742,
+ "parcelNumber": "154/2",
+ "cadMunicipalityId": 201345,
+ "cadMunicipalityRegNum": "310794",
+ "cadMunicipalityName": "KRUŠČICA",
+ "institutionId": 91,
+ "address": "KRPANKA",
+ "area": "644",
+ "buildingRemark": 0,
+ "detailSheetNumber": " 99",
+ "hasBuildingRight": false,
+ "parcelParts": [
+  {
+   "parcelPartId": 61013766,
+   "name": "ORANICA",
+   "area": "644",
+   "possessionSheetId": 11212574,
+   "possessionSheetNumber": "140",
+   "building": false
+  }
+ ],
+ "possessionSheets": [
+  {
+   "possessionSheetId": 11212574,
+   "possessionSheetNumber": "140",
+   "cadMunicipalityId": 201345,
+   "possessors": [
+    {
+     "name": "Martin Balenović",
+     "ownership": "1/1",
+     "address": "Oteš, Brezovo Polje 91"
+    }
+   ]
+  }
+ ],
+ "lrUnit": {
+  "lrUnitId": 9574951,
+  "lrUnitNumber": "140",
+  "mainBookId": 231733,
+  "status": "0",
+  "verificated": false,
+  "condominiums": false
+ },
+ "isAdditionalDataSet": false,
+ "legalRegime": false,
+ "graphic": true,
+ "alphaNumeric": true,
+ "status": 0,
+ "resourceCode": 0,
+ "isHarmonized": true
+}
