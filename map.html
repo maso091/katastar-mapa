@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Katastarske čestice — darovni ugovor</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+  html,body,#map{height:100%;margin:0}
+  .legend{background:#fff;padding:8px 12px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.4);font:13px/1.5 sans-serif}
+  .legend i{width:12px;height:12px;display:inline-block;margin-right:6px;border-radius:2px}
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const data = {"type":"FeatureCollection","features":[]};
+
+const osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:19, attribution:'© OpenStreetMap'});
+const map = L.map('map', {layers:[osm]});
+
+// DGU INSPIRE WMS — službeni katastarski plan kao podloga (javno, bez tokena)
+const dkp = L.tileLayer.wms('https://api.uredjenazemlja.hr/services/inspire/cp_wms/wms', {
+  layers: 'CP.CadastralParcel,CP.CadastralZoning',
+  format: 'image/png', transparent: true, maxZoom: 20, attribution: 'DGU'
+});
+
+const layer = L.geoJSON(data, {
+  style: f => ({color:f.properties.color, weight:2, fillOpacity:.35}),
+  onEachFeature: (f,l) => l.bindPopup(
+    '<b>K.O. '+f.properties.ko+'</b><br>čest.kat.br. <b>'+f.properties.cestica+'</b><br><small>'+f.properties.match+'</small>'
+  ).bindTooltip(f.properties.cestica, {permanent:true, direction:'center', className:'plabel'})
+}).addTo(map);
+
+if (data.features.length) map.fitBounds(layer.getBounds().pad(0.15));
+else map.setView([44.63, 15.42], 12); // Lika fallback
+
+L.control.layers({'OSM':osm}, {'Katastarski plan (DGU WMS)':dkp, 'Čestice':layer}).addTo(map);
+
+const legend = L.control({position:'bottomleft'});
+legend.onAdd = () => {
+  const div = L.DomUtil.create('div','legend');
+  const kos = [...new Set(data.features.map(f=>JSON.stringify([f.properties.ko,f.properties.color])))].map(JSON.parse);
+  div.innerHTML = '<b>Darovni ugovor 18/71</b><br>' + kos.map(([n,c])=>'<i style="background:'+c+'"></i>K.O. '+n).join('<br>');
+  return div;
+};
+legend.addTo(map);
+</script>
+</body>
+</html>
